@@ -86,10 +86,10 @@ status-website:
 
   
   name: VWD
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: **real-time** VWD
+  introTitle: "**real-time** VWD"
+  introMessage: 
   navbar:
-    - title: Real Time Status
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
