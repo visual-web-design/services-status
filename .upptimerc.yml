@@ -82,14 +82,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /service-status
-  logoUrl: https://github.com/visual-web-design/services-status/blob/master/assets/logo_transp.png
+  logoUrl: https://github.com/visual-web-design/services-status/blob/master/assets/logo.svg
 
   
-  name: VWD
+  name: **Visual Web Design** Server Status
+  introTitle: "**Visual Web Design** Server Status"
+  introMessage: Status Visual Web Design: Informações em tempo real sobre o desempenho e a disponibilidade do sistema. Verifique o status de todos os sistemas aqui.
   navbar:
-    - title: Status
+    - title: **Visual Web Design** Server Status
       href: /
-    - title: GitHub
+    - title: **Visual Web Design** Server Status
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
