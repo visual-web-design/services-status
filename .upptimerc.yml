@@ -86,13 +86,17 @@ status-website:
 
   
   name: **Visual Web Design** Server Status
-  introTitle: "**Visual Web Design** Server Status"
-  introMessage: Status Visual Web Design: Informações em tempo real sobre o desempenho e a disponibilidade do sistema. Verifique o status de todos os sistemas aqui.
+  introTitle: "**Status do Servidor Visual Web Design**"
+  introMessage: "Mantenha-se informado com dados em tempo real sobre o desempenho e disponibilidade do sistema. Verifique o status de todos os sistemas aqui."
   navbar:
-    - title: **Visual Web Design** Server Status
+    - title: "Status do Servidor Visual Web Design"
       href: /
-    - title: **Visual Web Design** Server Status
+    - title: "Repositório no GitHub"
       href: https://github.com/$OWNER/$REPO
+
+# Upptime também suporta notificações, atribuição de problemas e muito mais
+# Veja mais em: https://upptime.js.org/docs/configuration
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
