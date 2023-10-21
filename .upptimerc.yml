@@ -59,8 +59,6 @@ sites:
     url: https://visualwebdesign.net
   - name: visualwebdesign
     url: https://visualwebdesign.pt
-
-    sites:
   - name: HTTP
     check: "tcp-ping"
     url: $VWD_SV
@@ -84,19 +82,14 @@ status-website:
   baseUrl: /service-status
   logoUrl: https://github.com/visual-web-design/services-status/blob/master/assets/logo.svg
 
-  
-  name: **Visual Web Design** Server Status
+  name: Visual Web Design Server Status
   introTitle: "**Status do Servidor Visual Web Design**"
-  introMessage: "Mantenha-se informado com dados em tempo real sobre o desempenho e disponibilidade do sistema. Verifique o status de todos os sistemas aqui."
+  introMessage: Mantenha-se informado com dados em tempo real sobre o desempenho e disponibilidade do sistema. Verifique o status de todos os sistemas aqui.
   navbar:
-    - title: "Status do Servidor Visual Web Design"
+    - title: Status do Servidor Visual Web Design
       href: /
-    - title: "Repositório no GitHub"
+    - title: Repositório no GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Upptime também suporta notificações, atribuição de problemas e muito mais
 # Veja mais em: https://upptime.js.org/docs/configuration
-
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
