@@ -86,8 +86,6 @@ status-website:
 
   
   name: VWD
-  introTitle: "**real-time** VWD"
-  introMessage: 
   navbar:
     - title: Status
       href: /
