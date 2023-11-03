@@ -149,14 +149,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "78.53%",
+    "uptime": "78.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.55%",
-    "uptimeMonth": "78.53%",
-    "uptimeYear": "78.53%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "78.72%",
+    "uptimeYear": "78.72%",
     "time": 5181,
     "timeDay": 1742,
-    "timeWeek": 5400,
+    "timeWeek": 5326,
     "timeMonth": 5181,
     "timeYear": 5181,
     "dailyMinutesDown": {
@@ -286,16 +286,18 @@
     "slug": "visualwebdesign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3134,
-    "timeDay": 2444,
-    "timeWeek": 2946,
-    "timeMonth": 3134,
-    "timeYear": 3134,
-    "dailyMinutesDown": {}
+    "time": 3139,
+    "timeDay": 2762,
+    "timeWeek": 2976,
+    "timeMonth": 3139,
+    "timeYear": 3139,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "visualwebdesign",
@@ -304,16 +306,18 @@
     "slug": "visualwebdesign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3134,
-    "timeDay": 2444,
-    "timeWeek": 2946,
-    "timeMonth": 3134,
-    "timeYear": 3134,
-    "dailyMinutesDown": {}
+    "time": 3139,
+    "timeDay": 2762,
+    "timeWeek": 2976,
+    "timeMonth": 3139,
+    "timeYear": 3139,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "paivasom",
@@ -368,7 +372,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2023-11-03": 39,
+      "2023-11-03": 191,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
@@ -499,16 +503,18 @@
     "slug": "visualwebdesign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3134,
-    "timeDay": 2444,
-    "timeWeek": 2946,
-    "timeMonth": 3134,
-    "timeYear": 3134,
-    "dailyMinutesDown": {}
+    "time": 3139,
+    "timeDay": 2762,
+    "timeWeek": 2976,
+    "timeMonth": 3139,
+    "timeYear": 3139,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "visualwebdesign",
@@ -517,16 +523,18 @@
     "slug": "visualwebdesign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3134,
-    "timeDay": 2444,
-    "timeWeek": 2946,
-    "timeMonth": 3134,
-    "timeYear": 3134,
-    "dailyMinutesDown": {}
+    "time": 3139,
+    "timeDay": 2762,
+    "timeWeek": 2976,
+    "timeMonth": 3139,
+    "timeYear": 3139,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "HTTP",
