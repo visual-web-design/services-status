@@ -151,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "88.26%",
+    "uptime": "88.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "88.26%",
+    "uptimeMonth": "88.31%",
+    "uptimeYear": "88.31%",
     "time": 4906,
     "timeDay": 1375,
     "timeWeek": 1785,
@@ -340,9 +340,9 @@
     "url": "https://parquemonteverde.com",
     "icon": "https://icons.duckduckgo.com/ip3/parquemonteverde.com.ico",
     "slug": "parquemonteverde",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -351,7 +351,9 @@
     "timeWeek": 1866,
     "timeMonth": 2246,
     "timeYear": 2246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "phunkpt",
@@ -370,7 +372,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-11-13": 41,
+      "2023-11-13": 181,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
