@@ -97,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1016,
     "timeDay": 3101,
     "timeWeek": 1429,
     "timeMonth": 1083,
     "timeYear": 1016,
-    "dailyMinutesDown": {
-      "2023-11-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ricardoguiomar",
@@ -153,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.48%",
+    "uptimeYear": "93.50%",
     "time": 4574,
     "timeDay": 1840,
     "timeWeek": 2045,
@@ -374,7 +372,7 @@
     "timeMonth": 131,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-11-30": 1015,
+      "2023-11-30": 1239,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
@@ -441,19 +439,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1016,
     "timeDay": 3101,
     "timeWeek": 1429,
     "timeMonth": 1083,
     "timeYear": 1016,
-    "dailyMinutesDown": {
-      "2023-11-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ricardoguiomar",
@@ -514,10 +510,10 @@
     "url": "https://villasjoinal.com",
     "icon": "https://icons.duckduckgo.com/ip3/villasjoinal.com.ico",
     "slug": "villasjoinal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1201,
@@ -525,7 +521,9 @@
     "timeWeek": 1064,
     "timeMonth": 1166,
     "timeYear": 1201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 1
+    }
   },
   {
     "name": "visualwebdesign",
