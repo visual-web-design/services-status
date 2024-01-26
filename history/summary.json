@@ -60,18 +60,20 @@
     "url": "https://app.100fitclub.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.100fitclub.com.ico",
     "slug": "app-100fitclub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 620,
-    "timeWeek": 681,
-    "timeMonth": 548,
+    "timeDay": 572,
+    "timeWeek": 661,
+    "timeMonth": 547,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 1
+    }
   },
   {
     "name": "benali",
@@ -403,7 +405,7 @@
     "timeMonth": 132,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-01-26": 39,
+      "2024-01-26": 170,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
