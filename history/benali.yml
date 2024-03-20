@@ -1,7 +1,7 @@
 url: https://benali.org
-status: up
-code: 200
-responseTime: 2940
-lastUpdated: 2024-03-19T23:18:39.952Z
+status: down
+code: 500
+responseTime: 1044
+lastUpdated: 2024-03-20T03:35:10.416Z
 startTime: 2023-10-21T22:53:57.416Z
 generator: Upptime <https://github.com/upptime/upptime>
