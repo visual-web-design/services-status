@@ -132,18 +132,16 @@
     "slug": "ricardoguiomar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 1166,
     "timeWeek": 1109,
     "timeMonth": 894,
     "timeYear": 1032,
-    "dailyMinutesDown": {
-      "2024-04-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "diamondsevents",
@@ -201,18 +199,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dropandlock.pt.ico",
     "slug": "dropandlock",
     "status": "down",
-    "uptime": "77.93%",
+    "uptime": "77.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.93%",
+    "uptimeYear": "77.91%",
     "time": 1322,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2024-04-29": 1405,
+      "2024-04-30": 40,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -485,7 +484,8 @@
     "timeMonth": 124,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-04-29": 1405,
+      "2024-04-30": 40,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -725,18 +725,16 @@
     "slug": "ricardoguiomar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 1166,
     "timeWeek": 1109,
     "timeMonth": 894,
     "timeYear": 1032,
-    "dailyMinutesDown": {
-      "2024-04-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "terrierclubedepo",
@@ -745,18 +743,16 @@
     "slug": "terrierclubedepo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
     "timeDay": 1094,
     "timeWeek": 932,
     "timeMonth": 944,
     "timeYear": 1015,
-    "dailyMinutesDown": {
-      "2024-04-29": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ultralogic",
