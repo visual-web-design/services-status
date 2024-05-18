@@ -68,9 +68,9 @@
     "slug": "app-100fitclub",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 605,
     "timeDay": 604,
@@ -78,7 +78,6 @@
     "timeMonth": 658,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-05-18": 10,
       "2024-03-01": 15
     }
   },
@@ -200,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dropandlock.pt.ico",
     "slug": "dropandlock",
     "status": "down",
-    "uptime": "71.02%",
+    "uptime": "70.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.02%",
+    "uptimeYear": "70.92%",
     "time": 1322,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2024-05-18": 835,
+      "2024-05-18": 1239,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -349,16 +348,18 @@
     "slug": "projetomatic",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2521,
-    "timeDay": 2871,
-    "timeWeek": 2668,
-    "timeMonth": 2719,
-    "timeYear": 2521,
-    "dailyMinutesDown": {}
+    "time": 2520,
+    "timeDay": 2664,
+    "timeWeek": 2640,
+    "timeMonth": 2711,
+    "timeYear": 2520,
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   },
   {
     "name": "mafaldagranado",
@@ -504,7 +505,7 @@
     "timeMonth": 139,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-05-18": 835,
+      "2024-05-18": 1239,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -724,16 +725,18 @@
     "slug": "projetomatic",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2521,
-    "timeDay": 2871,
-    "timeWeek": 2668,
-    "timeMonth": 2719,
-    "timeYear": 2521,
-    "dailyMinutesDown": {}
+    "time": 2520,
+    "timeDay": 2664,
+    "timeWeek": 2640,
+    "timeMonth": 2711,
+    "timeYear": 2520,
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   },
   {
     "name": "prosnowlife",
